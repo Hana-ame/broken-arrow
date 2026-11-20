@@ -1,0 +1,6 @@
+{
+  "name": "Broken Arrow Tactical Command",
+  "description": "Real-time modern combined-arms tactical warfare on the web with custom battlegroup deck building, AI skirmish, and live multiplayer rooms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
